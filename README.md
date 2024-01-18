@@ -1,5 +1,5 @@
-# Snack Expo (MERN)
+# Snack Expo
 
 FrontEnd :
-[https://snack.expo.dev/@alriawi/6?platform=web](https://snack.expo.dev/@aidilmuhammadzaki/pertemuan-6dan7_aidilmuhammadzaki_213510807?authuser=1)https://snack.expo.dev/@aidilmuhammadzaki/pertemuan-6dan7_aidilmuhammadzaki_213510807?authuser=1
+https://snack.expo.dev/@hamdan_boji_rifana/hamdan-boji-rifana_213510132_tugas-6-dan-7
  
